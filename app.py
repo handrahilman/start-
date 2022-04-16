@@ -1,1 +1,2 @@
-print("Name is Handra")
+if __name__ == "__main__":
+        print("Name is Handra")
